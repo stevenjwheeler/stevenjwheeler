@@ -7,4 +7,4 @@ I have created Discord bots, windows apps, console apps, etc.
 
 My favourite language at the moment is JavaScript/NodeJS!
 
-Thanks for viewing my profile, and have a look at my repositories! [Note; my main large projects that are ongoing (and university assignments) are in private repositories]
+Thanks for viewing my profile, and have a look at my repositories! [Note; my university assignments are currently in private repositories]
