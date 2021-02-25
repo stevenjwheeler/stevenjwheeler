@@ -5,7 +5,7 @@
 Im from the UK and have been programming for many years.
 First and foremost, I'm a tinkerer. I mess around with coding and create little (and some larger) projects when I think of them, but mainly I am a university student studying Computer Science (Cyber Security pathway).
 
-I have created Discord bots, windows apps, console apps, etc.
+I have created Discord bots, Windows Form apps, Console apps, Universal Windows Platform apps, Scripts, etc.
 
 My favourite language at the moment is JavaScript/NodeJS!
 
