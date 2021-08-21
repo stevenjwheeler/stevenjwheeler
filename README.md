@@ -1,6 +1,6 @@
 ### Hello! Im Steven. 👋
-![Github Stats Overview](https://github.com/robotprobot/github-stats-new/blob/master/generated/overview.svg?raw=true)
-![Github Stats Overview](https://github.com/robotprobot/github-stats-new/blob/master/generated/languages.svg?raw=true)
+![Github Stats Overview](https://github.com/robotprobot/github-stats/blob/master/generated/overview.svg?raw=true)
+![Github Stats Overview](https://github.com/robotprobot/github-stats/blob/master/generated/languages.svg?raw=true)
 
 Hi, I'm Steven! 👋
 
