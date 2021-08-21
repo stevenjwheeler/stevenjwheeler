@@ -11,4 +11,4 @@ The biggest project that I am currently working on is a Localized Password Manag
 
 My favourite language at the moment is JavaScript/NodeJS!
 
-Thanks for viewing my profile, and have a look at my repositories! [Note; my university assignments are currently in private repositories]
+Thanks for viewing my profile, and have a look at my repositories!
