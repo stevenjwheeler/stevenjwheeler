@@ -11,6 +11,6 @@ I have learnt to program in C, C++, C#, XAML, Python, JavaScript, Node.JS, SQL, 
 I created a Localized Password Manager that still has advanced security features for my Final Year Project in university.
 You can check out this project on my website [here](https://www.stevenwheeler.co.uk/passdefend), or check out the [repo](https://www.github.com/robotprobot/passdefend).
 
-I am currently working on another very large project where the goal is to create a physical hardware device with embedded firmware that connects to an application on a PC. The project is ongoing, and the goal is to create Eye Tracking technology using machine vision! See my ([QuestEyes organisation](https://github.com/questeyes)) for more!
+I am currently working on another very large project where the goal is to create a physical hardware device with embedded firmware that connects to an application on a PC. The project is ongoing, and the goal is to create Eye Tracking technology using machine vision! See my [QuestEyes organisation](https://github.com/questeyes) for more!
 
 Thanks for viewing my profile, and have a look at my repositories!
