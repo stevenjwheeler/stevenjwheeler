@@ -4,7 +4,7 @@
 
 Hi, I'm Steven! 😊
 
-I'm from the UK and recently graduated from University with a First in Computer Science (Cyber Security).
+I'm from the UK and graduated from University with a First in Computer Science (Cyber Security).
 
 I have learnt to program in C, C++, C#, XAML, Python, JavaScript, Node.JS, SQL, HTML and CSS, either self-taught or in University, and have created  Console apps, Universal Windows Platform apps, Cross-platform PC applications, Windows Form apps, Scripts, Discord bots, etc.
 
